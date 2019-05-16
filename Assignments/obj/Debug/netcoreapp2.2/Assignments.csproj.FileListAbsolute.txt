@@ -1,0 +1,11 @@
+D:\C Sharpe Training\Assignments\obj\Debug\netcoreapp2.2\Assignments.csprojAssemblyReference.cache
+D:\C Sharpe Training\Assignments\obj\Debug\netcoreapp2.2\Assignments.csproj.CoreCompileInputs.cache
+D:\C Sharpe Training\Assignments\obj\Debug\netcoreapp2.2\Assignments.AssemblyInfoInputs.cache
+D:\C Sharpe Training\Assignments\obj\Debug\netcoreapp2.2\Assignments.AssemblyInfo.cs
+D:\C Sharpe Training\Assignments\bin\Debug\netcoreapp2.2\Assignments.deps.json
+D:\C Sharpe Training\Assignments\bin\Debug\netcoreapp2.2\Assignments.runtimeconfig.json
+D:\C Sharpe Training\Assignments\bin\Debug\netcoreapp2.2\Assignments.runtimeconfig.dev.json
+D:\C Sharpe Training\Assignments\bin\Debug\netcoreapp2.2\Assignments.dll
+D:\C Sharpe Training\Assignments\bin\Debug\netcoreapp2.2\Assignments.pdb
+D:\C Sharpe Training\Assignments\obj\Debug\netcoreapp2.2\Assignments.dll
+D:\C Sharpe Training\Assignments\obj\Debug\netcoreapp2.2\Assignments.pdb
