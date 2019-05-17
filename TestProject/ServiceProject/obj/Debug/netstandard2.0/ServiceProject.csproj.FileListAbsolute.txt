@@ -1,0 +1,9 @@
+D:\CSharpTrining\TestProject\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+D:\CSharpTrining\TestProject\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+D:\CSharpTrining\TestProject\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+D:\CSharpTrining\TestProject\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+D:\CSharpTrining\TestProject\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+D:\CSharpTrining\TestProject\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+D:\CSharpTrining\TestProject\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+D:\CSharpTrining\TestProject\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+D:\CSharpTrining\TestProject\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb

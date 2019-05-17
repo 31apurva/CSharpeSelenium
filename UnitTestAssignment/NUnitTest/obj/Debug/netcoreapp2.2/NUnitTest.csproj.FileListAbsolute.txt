@@ -1,0 +1,17 @@
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.deps.json
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.runtimeconfig.json
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.runtimeconfig.dev.json
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.dll
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.pdb
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\ServiceProject.dll
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\bin\Debug\netcoreapp2.2\ServiceProject.pdb
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csprojAssemblyReference.cache
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CoreCompileInputs.cache
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfoInputs.cache
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfo.cs
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CopyComplete
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.dll
+D:\CSharpTrining\UnitTestAssignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.pdb
