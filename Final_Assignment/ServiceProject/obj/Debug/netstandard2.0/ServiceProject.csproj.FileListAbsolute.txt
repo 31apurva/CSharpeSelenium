@@ -1,0 +1,9 @@
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+D:\CSharpTrining\GitRepo\CSharpeSelenium\Final_Assignment\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb

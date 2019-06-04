@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CSharpTrining\\TestProject\\NUnitTest\\NUnitTest.csproj": {}
+    "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\NUnitTest\\NUnitTest.csproj": {}
   },
   "projects": {
-    "d:\\CSharpTrining\\TestProject\\NUnitTest\\NUnitTest.csproj": {
+    "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\NUnitTest\\NUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CSharpTrining\\TestProject\\NUnitTest\\NUnitTest.csproj",
+        "projectUniqueName": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\NUnitTest\\NUnitTest.csproj",
         "projectName": "NUnitTest",
-        "projectPath": "d:\\CSharpTrining\\TestProject\\NUnitTest\\NUnitTest.csproj",
+        "projectPath": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\NUnitTest\\NUnitTest.csproj",
         "packagesPath": "C:\\Users\\apurva.pandit\\.nuget\\packages\\",
-        "outputPath": "d:\\CSharpTrining\\TestProject\\NUnitTest\\obj\\",
+        "outputPath": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\NUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apurva.pandit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\apurva.pandit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "d:\\CSharpTrining\\TestProject\\ServiceProject\\ServiceProject.csproj": {
-                "projectPath": "d:\\CSharpTrining\\TestProject\\ServiceProject\\ServiceProject.csproj"
+              "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\ServiceProject\\ServiceProject.csproj": {
+                "projectPath": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\ServiceProject\\ServiceProject.csproj"
               }
             }
           }
@@ -73,6 +75,10 @@
               "target": "Package",
               "version": "[3.0.199, )"
             },
+            "SpecflowExtension.Storage": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "nunit": {
               "target": "Package",
               "version": "[3.10.1, )"
@@ -86,25 +92,27 @@
         }
       }
     },
-    "d:\\CSharpTrining\\TestProject\\ServiceProject\\ServiceProject.csproj": {
+    "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\ServiceProject\\ServiceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CSharpTrining\\TestProject\\ServiceProject\\ServiceProject.csproj",
+        "projectUniqueName": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\ServiceProject\\ServiceProject.csproj",
         "projectName": "ServiceProject",
-        "projectPath": "d:\\CSharpTrining\\TestProject\\ServiceProject\\ServiceProject.csproj",
+        "projectPath": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\ServiceProject\\ServiceProject.csproj",
         "packagesPath": "C:\\Users\\apurva.pandit\\.nuget\\packages\\",
-        "outputPath": "d:\\CSharpTrining\\TestProject\\ServiceProject\\obj\\",
+        "outputPath": "d:\\CSharpTrining\\GitRepo\\CSharpeSelenium\\TestProject\\ServiceProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apurva.pandit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\apurva.pandit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
